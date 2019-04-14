@@ -1,0 +1,25 @@
+.titulo
+{
+    font: 800;
+    font-family: cursive;
+    font-size: xx-large;
+    color: #E88C5A;
+    text-align: center;
+}
+
+.texto
+{
+    font: 200;
+    font-family: cursive;
+    font-size: small;
+    text-align: center;
+}
+
+.lista
+{
+    font: 500;
+    font-family: cursive;
+    font-size: medium;
+    list-style-type: none;
+    text-align: center;
+}

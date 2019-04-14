@@ -1,0 +1,49 @@
+.cabecalho
+{
+    background:#00cccc;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.rodape
+{
+    background:#00cccc;
+}
+
+table#alter
+{
+    position:absolute;
+    left:570px;
+    top:100px;
+    -moz-box-shadow:    0px 10px 20px #999999;
+    -webkit-box-shadow: 0px 20px 20px #999999;
+    box-shadow:         0px 30px 20px #999999;    
+}
+
+
+table#alter tr.dif td {
+    background: white; 
+    color:  #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border-color: #eeeeee;
+    padding-top: 12px;
+    padding-right: 35px;
+    padding-bottom: 12px;
+    padding-left: 35px; 
+    }
+
+table#alter tbody tr.dif td:hover {
+    background: #F4F4F4; 
+    color:  #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border-color: #eeeeee;
+    padding-top: 12px;
+    padding-right: 35px;
+    padding-bottom: 12px;
+    padding-left: 35px; 
+    cursor: pointer;
+}
+   

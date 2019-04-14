@@ -1,0 +1,147 @@
+#area
+{
+  position:relative;
+  left:37%;
+  
+  width:320px;
+  height:270px;
+}
+#area #formulario
+{
+  position:absolute;
+  display:block;   
+}
+
+.titulo_formulario
+{
+    font-style: italic;
+    font: menu;
+    font-family: cursive;
+    font-size: larger;
+    
+}
+ 
+fieldset
+{
+  background-color:#CFBAFF;
+  width:400px;
+  height:600px;
+  line-height: 50px
+}
+
+#formulario label
+{
+  position:absolute;
+  left:19px;
+  margin-right:5px;
+  font-family: cursive;
+  line-height: 20px
+}
+#formulario input.campo_nome
+{
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  top:30px;
+  width:225px;
+}
+#formulario input.campo_sobrenome
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_nascimento
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  font-family: cursive;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_id
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_cpf
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+
+#formulario select.campo_sexo 
+{
+    background-color:#8A9987;
+    position:absolute;
+    left:150px;
+    margin-top:2px;
+    width:225px;
+    font-family: cursive;
+}
+
+#formulario select.campo_estado_civil 
+{
+    background-color:#8A9987;
+    position:absolute;
+    left:150px;
+    margin-top:2px;
+    width:225px;
+    font-family: cursive;
+}
+
+#formulario input.campo_tel
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_cel
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_email
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+#formulario input.campo_endereco
+{ 
+  background-color:#8A9987;
+  position:absolute;
+  left:150px;
+  margin-top:2px;
+  width:225px;
+}
+ 
+ 
+#formulario input.btn_submit
+{
+  border-style:groove;
+  position:absolute;
+  bottom: 2em;
+  right:20px;
+  height:20px;
+  font-style: italic;
+  font-family: cursive;
+  background-color:#8A9987;
+  line-height: 10px
+}
